@@ -341,11 +341,3 @@ healthchecksdb
 
 # Configuration file
 appsettings.json
-/AchilliosOmega.Api/env
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/application.yml
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/movie_lines.txt
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/movie_conversations.txt
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/glove.6B.50d.txt
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/movie_lines.txt
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/movie_conversations.txt
-/AchilliosOmega.Api/AchilliosOmega.Api/chatbot/setup/corpus/glove.6B.50d.txt
